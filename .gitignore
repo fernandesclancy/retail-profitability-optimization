@@ -1,1 +1,27 @@
+# Python
+__pycache__/
+*.pyc
 
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI Auto Recovery
+*.pbix.autorecovery
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Temporary
+temp/
